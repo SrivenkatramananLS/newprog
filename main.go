@@ -6,7 +6,10 @@ import ("fmt"
 
 
 func main() {
-	loginvalidation()
+	//loginvalidation()
+	//greet()
+	//mathematical()
+	tmp()
 }
 
 func loginvalidation() {
